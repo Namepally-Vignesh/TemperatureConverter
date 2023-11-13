@@ -1,0 +1,36 @@
+body {
+  font-family: "Arial", sans-serif;
+  background: linear-gradient(to right, #0099cc, #33cc33, #9933cc, #0099cc);
+}
+
+.container {
+  max-width: 350px;
+  margin: auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 250px;
+}
+
+.form-label {
+  font-weight: bold;
+  font-size: 45px;
+}
+
+.form-control {
+  width: 80%;
+}
+
+.input-group {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-primary {
+  margin-top: 10px;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
